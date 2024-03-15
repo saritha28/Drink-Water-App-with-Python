@@ -17,10 +17,9 @@ This is a simple Python script for a drink water reminder app. Staying hydrated 
 
 ## YouTube Video
 
-Watch the tutorial video on YouTube: [Drink Water Reminder App Tutorial]
-[https://youtu.be/P3MZGmWng1Q?si=5G3jquuTpO4Uz8aw]
+Watch the tutorial video on YouTube: [Drink Water Reminder App Tutorial](https://youtu.be/P3MZGmWng1Q?si=5G3jquuTpO4Uz8aw)
 
-[![Watch the tutorial video][https://youtu.be/P3MZGmWng1Q?si=5G3jquuTpO4Uz8aw]]
+[![Watch the tutorial video](https://img.youtube.com/vi/P3MZGmWng1Q/0.jpg)](https://youtu.be/P3MZGmWng1Q?si=5G3jquuTpO4Uz8aw)
 
 ## Contributing
 
